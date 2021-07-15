@@ -1,5 +1,6 @@
 Task Details
-	You're a marketing analyst and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set to understand this problem and propose data-driven solutions.
+
+You're a marketing analyst and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set to understand this problem and propose data-driven solutions.
 
 Section 01: Exploratory Data Analysis
  * Are there any null values or outliers? How will you wrangle/handle them?
