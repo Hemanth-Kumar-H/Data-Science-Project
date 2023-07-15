@@ -13,16 +13,16 @@ Written in Python
 ## Results:
 
 ### Word Cloud of entire dataset:
-![Word Cloud of entire dataset](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/wordCloudDefault.png)
+![Word Cloud of entire dataset](https://github.com/Hemanth-Kumar-H/Data-Science-Project/blob/main/Simple-NLP-Projects-main/images/wordCloudDefault.png)
 
 ### Word Cloud of spam email text:
-![Word Cloud of Spam emails](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/spamWordCloud.png)
+![Word Cloud of Spam emails](https://github.com/Hemanth-Kumar-H/Data-Science-Project/blob/main/Simple-NLP-Projects-main/images/spamWordCloud.png)
 
 ### Word Cloud of non-spam email text:
-![Word cloud of non-spam emails](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/nonSpamWordCloud.png)
+![Word cloud of non-spam emails](https://github.com/Hemanth-Kumar-H/Data-Science-Project/blob/main/Simple-NLP-Projects-main/images/nonSpamWordCloud.png)
 
 ### Sentiment Analysis of emails results:
-![Sentiment analysis results](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/sentimentAnalysisResults.PNG)
+![Sentiment analysis results](https://github.com/Hemanth-Kumar-H/Data-Science-Project/blob/main/Simple-NLP-Projects-main/images/sentimentAnalysisResults.PNG)
 
 ### Classifier results:
-![Classifier Results](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/classifierResults.PNG)
+![Classifier Results](https://github.com/Hemanth-Kumar-H/Data-Science-Project/blob/main/Simple-NLP-Projects-main/images/classifierResults.PNG)
